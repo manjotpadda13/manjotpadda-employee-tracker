@@ -4,22 +4,23 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/manjotpadda13/manjotpadda-employee-tracker"
+        "type": "git",
+        "url": "https://github.com/manjotpadda13/manjotpadda-employee-tracker"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/manjotpadda13/manjotpadda-employee-tracker/issues"
+        "url": "https://github.com/manjotpadda13/manjotpadda-employee-tracker/issues"
     },
     "homepage": "https://github.com/manjotpadda13/manjotpadda-employee-tracker/blob/main/README.md",
     "dependencies": {
-      "console.table": "^0.10.0",
-      "inquirer": "^7.3.3",
-      "mysql": "^2.18.1"
+        "console.table": "^0.10.0",
+        "inquirer": "^8.2.4",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.6.5"
     }
-  }
+}
