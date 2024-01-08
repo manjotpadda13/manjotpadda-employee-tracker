@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS manjotpadda-employee-tracker;
+DROP DATABASE IF EXISTS "employee_info_db" ;
 
-CREATE DATABASE manjotpadda-employee-tracker;
+CREATE DATABASE  "employee_info_db";
 
-USE manjotpadda-employee-tracker;
+USE "employee_info_db";
 
 CREATE TABLE department (
 
