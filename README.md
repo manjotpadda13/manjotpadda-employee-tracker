@@ -26,6 +26,17 @@ The following video shows an example of the application being used from the comm
 
 
 ## Description 
+We first must install the below 
+
+Node.js | Inquirer | MySQL
+
+Once Installed
+
+You clone the Repository on to your machine.
+Open the terminal and ensure you are in the right file path.
+Run the command npm install to download the packages.
+Then run the command node server.js to run the software.
+The command prompt will begin on your terminal
 
 
 
