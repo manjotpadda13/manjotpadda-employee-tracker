@@ -29,8 +29,16 @@ The following video shows an example of the application being used from the comm
 
 
 
+## Screenshots 
+<img width="1356" alt="Screenshot 2024-01-08 at 12 57 47 AM" src="https://github.com/manjotpadda13/manjotpadda-employee-tracker/assets/79305241/62196bf1-0813-4108-b6c0-97b827bc44c5">
+
+
+
+
 
 ## Walkthrough Video 
+
+https://drive.google.com/file/d/1NVoZEws93F21IaEpJSSttM0COF3JOk8A/view 
 
 
 
